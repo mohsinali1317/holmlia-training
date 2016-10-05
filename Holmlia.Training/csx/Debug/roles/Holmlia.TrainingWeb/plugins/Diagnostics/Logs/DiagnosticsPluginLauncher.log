@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [10/5/2016 10:06:49 AM] Emulator config file set to C:\Source\Holmlia-Training\Holmlia.Training\csx\Debug\roles\Holmlia.TrainingWeb\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/5/2016 10:06:49 AM] DiagnosticsStoreRootPath set to: C:\Users\mohsin\AppData\Local\dftmp\Resources\c4078cfa-304a-495b-9589-1189b146efb1
+DiagnosticsPluginLauncher.exe Information: 0 : [10/5/2016 10:06:49 AM] Loading config file: C:\Source\Holmlia-Training\Holmlia.Training\csx\Debug\roles\Holmlia.TrainingWeb\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/5/2016 10:06:49 AM] Config file to read: C:\Source\Holmlia-Training\Holmlia.Training\csx\Debug\roles\Holmlia.TrainingWeb\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/5/2016 10:06:49 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [10/5/2016 10:06:49 AM] Emulator config file set to C:\Source\Holmlia-Training\Holmlia.Training\csx\Debug\roles\Holmlia.TrainingWeb\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/5/2016 10:06:49 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [10/5/2016 10:06:49 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [10/5/2016 10:06:49 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [10/5/2016 10:06:49 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [10/5/2016 10:06:49 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [10/5/2016 10:06:49 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [10/5/2016 10:06:49 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [10/5/2016 10:06:49 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [10/5/2016 10:06:49 AM] Resetting DiagnosticPlugin
